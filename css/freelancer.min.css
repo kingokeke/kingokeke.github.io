@@ -14,3 +14,11 @@
  .portfolio .portfolio-item .portfolio-item-caption {
   background-color: rgba(0,0,0,0.75);
 }
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #1abc9c;
+}
